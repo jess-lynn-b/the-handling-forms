@@ -33,4 +33,8 @@
 
     This will make it to where once the line is clicked if no information is entered the box will be red to show that something must be entered in order to submit.
 
+## Reactive Approach 
+    This allows you to configure the form in greater detail using typescript. 
+
+#
     
